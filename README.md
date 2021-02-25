@@ -11,4 +11,10 @@ This is a software development project revolving around the center idea for team
 This is finished as of yesterday, sunday the 31st of january.
 
 ### ***Team Assignment #1b: Project Schedule Draft***
-This is our next TODO and the due date is on february 14th before midnight.
+This is finished as of the 14th of february.
+
+### ***Team Assignment #2: Domain Model***
+Here we have set up classes to describe their relationship and how we will order them.
+
+### ***Team Assignment #3: Domain Model***
+This is next on our schedule and the due date is on the 14th of march!
