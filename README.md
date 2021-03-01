@@ -8,13 +8,14 @@ This is a software development project revolving around the center idea for team
 - Availability-based booking with room reservation
  
  ### ***Team Assignment #1a: User Stories***
-This is finished as of yesterday, sunday the 31st of january.
+This is finished as of the 31st of january.
 
 ### ***Team Assignment #1b: Project Schedule Draft***
 This is finished as of the 14th of february.
 
 ### ***Team Assignment #2: Domain Model***
-Here we have set up classes to describe their relationship and how we will order them.
+~~Here we have set up classes to describe their relationship and how we will order them.~~
+This part is finished as of 28th of february.
 
-### ***Team Assignment #3: Domain Model***
+### ***Team Assignment #3: Design Model***
 This is next on our schedule and the due date is on the 14th of march!
