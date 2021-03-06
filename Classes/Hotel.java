@@ -7,6 +7,8 @@
  */
 // import stuff
 
+package Classes;
+
 public abstract class Hotel{
 
   public abstract void Method(){
